@@ -5,3 +5,14 @@
 
 # Tecnologias🚀
 ________________________________________________________________________________________________________________________________________________________________________
+
+### Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+* Typescript
+*NodeJS
+ReactJS
+React Native
+Expo
+Tailwind CSS
+Git e Github
+Figma
